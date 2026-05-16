@@ -1,0 +1,6 @@
+{
+  "name": "TitanHRMS - Enterprise Employee Management",
+  "description": "A comprehensive HRMS platform for employee lifecycle management, including payroll, attendance, recruitment, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
