@@ -14,7 +14,7 @@ const httpServer = http.createServer(app);
 setupChatSocket(httpServer, db);
 
 httpServer.listen(env.port, "0.0.0.0", () => {
-  console.log(`Titan HRMS backend running on http://localhost:${env.port}`);
+  console.log(`WorkOps Hub backend running on http://localhost:${env.port}`);
 });
 
 process.on("SIGINT", () => {

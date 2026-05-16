@@ -36,8 +36,8 @@ export function Sidebar({ isOpen, setIsOpen }: { isOpen: boolean; setIsOpen: (va
         <div className="flex flex-col h-full">
           <div className="p-6 flex items-center justify-between">
             <Link to="/" className="flex items-center gap-2 font-bold text-xl text-blue-600">
-              <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white">T</div>
-              <span>TitanHRMS</span>
+              <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white">WH</div>
+              <span>WorkOps Hub</span>
             </Link>
             <button onClick={() => setIsOpen(false)} className="lg:hidden p-2 text-slate-500">
               <X size={20} />

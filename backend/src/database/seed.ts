@@ -132,7 +132,7 @@ export function seed(db: Database.Database) {
     }
 
     const settings = {
-      company_name: "Titan HRMS",
+      company_name: "WorkOps Hub",
       company_email: "contact@titanhrms.com",
       company_phone: "+1 555 0100",
       timezone: "UTC +5:30 (India)",

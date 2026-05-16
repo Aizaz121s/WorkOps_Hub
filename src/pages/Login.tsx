@@ -48,7 +48,7 @@ export default function Login() {
       >
         <div className="bg-white rounded-2xl shadow-xl shadow-slate-200/50 p-8 border border-slate-100">
           <div className="text-center mb-8">
-            <div className="w-12 h-12 bg-blue-600 rounded-xl flex items-center justify-center text-white mx-auto mb-4 text-2xl font-bold">T</div>
+            <div className="w-10 h-10 bg-blue-600 rounded-xl flex items-center justify-center text-white mx-auto mb-4 text-2xl font-bold">WH</div>
             <h1 className="text-2xl font-bold text-slate-900">Welcome Back</h1>
             <p className="text-slate-500 mt-1">Enterprise Human Resource Management</p>
           </div>
@@ -110,7 +110,7 @@ export default function Login() {
 
           <div className="mt-8 pt-6 border-t border-slate-100 text-center">
             <p className="text-xs text-slate-400">
-              © 2026 TitanHRMS Enterprise. All rights reserved.
+              © 2026 WorkOps Hub Enterprise. All rights reserved.
             </p>
           </div>
         </div>
